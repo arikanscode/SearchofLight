@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: ddfc33af4c5524141a520f512ac398a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1470202407077629365
+    second: salon-esya-parcalar 1_0
+  - first:
+      213: 8040164383408298940
+    second: salon-esya-parcalar 1_1
+  - first:
+      213: -1664169733898202227
+    second: salon-esya-parcalar 1_2
+  - first:
+      213: -1367241952705238783
+    second: salon-esya-parcalar 1_3
+  - first:
+      213: -148200992123624276
+    second: salon-esya-parcalar 1_4
+  - first:
+      213: 4718938805932675722
+    second: salon-esya-parcalar 1_5
+  - first:
+      213: 9181502493697749493
+    second: salon-esya-parcalar 1_6
+  - first:
+      213: -4773389679067110588
+    second: salon-esya-parcalar 1_7
+  - first:
+      213: 3362771595222831024
+    second: salon-esya-parcalar 1_8
+  - first:
+      213: -8214913544590225168
+    second: salon-esya-parcalar 1_9
+  - first:
+      213: 343492105959545442
+    second: salon-esya-parcalar 1_10
+  - first:
+      213: 3506910717231940727
+    second: salon-esya-parcalar 1_11
+  - first:
+      213: 8771187484069395189
+    second: salon-esya-parcalar 1_12
+  - first:
+      213: 8064318243067326868
+    second: salon-esya-parcalar 1_13
+  - first:
+      213: -8073013738905561157
+    second: salon-esya-parcalar 1_14
+  - first:
+      213: -3182420145845081023
+    second: salon-esya-parcalar 1_15
+  - first:
+      213: 6668507545004641220
+    second: salon-esya-parcalar 1_16
+  - first:
+      213: 3129807625700520673
+    second: salon-esya-parcalar 1_17
+  - first:
+      213: -5150112123986956034
+    second: salon-esya-parcalar 1_18
+  - first:
+      213: 9188835648423372868
+    second: salon-esya-parcalar 1_19
+  - first:
+      213: 289227614089130647
+    second: salon-esya-parcalar 1_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: salon-esya-parcalar 1_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 83
+        width: 111
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42b63243bac89be0800000000000000
+      internalID: -1470202407077629365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salon-esya-parcalar 1_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 73
+        width: 52
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb9cc878e6649f60800000000000000
+      internalID: 8040164383408298940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salon-esya-parcalar 1_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 73
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d839a05b17ea7e8e0800000000000000
+      internalID: -1664169733898202227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salon-esya-parcalar 1_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 45
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1092efe10b4960de0800000000000000
+      internalID: -1367241952705238783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salon-esya-parcalar 1_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 73
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca46c1d9bfb71fdf0800000000000000
+      internalID: -148200992123624276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salon-esya-parcalar 1_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 68
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a825c6c87d90d7140800000000000000
+      internalID: 4718938805932675722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salon-esya-parcalar 1_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1b7315fdf3b6f70800000000000000
+      internalID: 9181502493697749493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salon-esya-parcalar 1_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 67
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44360bc906381cdb0800000000000000
+      internalID: -4773389679067110588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salon-esya-parcalar 1_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 45
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfc70af2f6faae20800000000000000
+      internalID: 3362771595222831024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salon-esya-parcalar 1_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 53
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0972ad7a3cefd80800000000000000
+      internalID: -8214913544590225168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salon-esya-parcalar 1_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 57
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a9ede104454c400800000000000000
+      internalID: 343492105959545442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salon-esya-parcalar 1_11
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774ce9787bc0ba030800000000000000
+      internalID: 3506910717231940727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salon-esya-parcalar 1_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 56
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fafe468b8489b970800000000000000
+      internalID: 8771187484069395189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salon-esya-parcalar 1_13
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 50
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491fab927b63aef60800000000000000
+      internalID: 8064318243067326868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salon-esya-parcalar 1_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 31
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb79fa1f6c4e6ff80800000000000000
+      internalID: -8073013738905561157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salon-esya-parcalar 1_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c6bd01db5c5d3d0800000000000000
+      internalID: -3182420145845081023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salon-esya-parcalar 1_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 3
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb830ae74c4b8c50800000000000000
+      internalID: 6668507545004641220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salon-esya-parcalar 1_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 15
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e23031047f4f6b20800000000000000
+      internalID: 3129807625700520673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salon-esya-parcalar 1_18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 4
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef033584f402788b0800000000000000
+      internalID: -5150112123986956034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salon-esya-parcalar 1_19
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 9
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448a8b3765d458f70800000000000000
+      internalID: 9188835648423372868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salon-esya-parcalar 1_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 39
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792340d8bfa830400800000000000000
+      internalID: 289227614089130647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
